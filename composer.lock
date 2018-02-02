@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d4658268653b112d1ff23f40a4648400",
+    "content-hash": "bd38ed882d7579bb511ae6a343c2c5a0",
     "packages": [
         {
             "name": "bower-asset/bootstrap",
@@ -180,16 +180,16 @@
         },
         {
             "name": "bower-asset/yii2-pjax",
-            "version": "dev-master",
+            "version": "2.0.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/jquery-pjax.git",
-                "reference": "c39f2393883f370d3c0d63d80a122534131b0f56"
+                "reference": "aef7b953107264f00234902a3880eb50dafc48be"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/jquery-pjax/zipball/c39f2393883f370d3c0d63d80a122534131b0f56",
-                "reference": "c39f2393883f370d3c0d63d80a122534131b0f56",
+                "url": "https://api.github.com/repos/yiisoft/jquery-pjax/zipball/aef7b953107264f00234902a3880eb50dafc48be",
+                "reference": "aef7b953107264f00234902a3880eb50dafc48be",
                 "shasum": ""
             },
             "require": {
@@ -206,28 +206,25 @@
                     "vendor/",
                     "script/",
                     "test/"
-                ],
-                "branch-alias": {
-                    "dev-master": "2.0.8-dev"
-                }
+                ]
             },
             "license": [
                 "MIT"
             ],
-            "time": "2017-10-14T08:42:41+00:00"
+            "time": "2017-10-12T10:11:14+00:00"
         },
         {
             "name": "cebe/markdown",
-            "version": "dev-master",
+            "version": "1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cebe/markdown.git",
-                "reference": "af7bae155b5a35a1c8ef67d2a242b31cbc11a45e"
+                "reference": "25b28bae8a6f185b5030673af77b32e1163d5c6e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cebe/markdown/zipball/af7bae155b5a35a1c8ef67d2a242b31cbc11a45e",
-                "reference": "af7bae155b5a35a1c8ef67d2a242b31cbc11a45e",
+                "url": "https://api.github.com/repos/cebe/markdown/zipball/25b28bae8a6f185b5030673af77b32e1163d5c6e",
+                "reference": "25b28bae8a6f185b5030673af77b32e1163d5c6e",
                 "shasum": ""
             },
             "require": {
@@ -274,7 +271,7 @@
                 "markdown",
                 "markdown-extra"
             ],
-            "time": "2018-01-17T11:51:05+00:00"
+            "time": "2017-07-16T21:13:23+00:00"
         },
         {
             "name": "drnixx/yii2-kendo",
@@ -282,12 +279,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/DrNixx/yii2-kendo.git",
-                "reference": "7a6b6418e28e394247fff0fd61601055782ca094"
+                "reference": "fd334a28b00fa1bf06bd8ca123384e9f8b31ffd7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DrNixx/yii2-kendo/zipball/7a6b6418e28e394247fff0fd61601055782ca094",
-                "reference": "7a6b6418e28e394247fff0fd61601055782ca094",
+                "url": "https://api.github.com/repos/DrNixx/yii2-kendo/zipball/fd334a28b00fa1bf06bd8ca123384e9f8b31ffd7",
+                "reference": "fd334a28b00fa1bf06bd8ca123384e9f8b31ffd7",
                 "shasum": ""
             },
             "require": {
@@ -296,7 +293,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "yii2-kendo\\": "src/"
+                    "yii2\\kendo\\": "src/"
                 }
             },
             "license": [
@@ -313,7 +310,7 @@
                 "source": "https://github.com/DrNixx/yii2-kendo/tree/master",
                 "issues": "https://github.com/DrNixx/yii2-kendo/issues"
             },
-            "time": "2018-02-02T17:17:33+00:00"
+            "time": "2018-02-02T22:20:29+00:00"
         },
         {
             "name": "ezyang/htmlpurifier",
@@ -423,16 +420,16 @@
         },
         {
             "name": "yiisoft/yii2",
-            "version": "dev-master",
+            "version": "2.0.13.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-framework.git",
-                "reference": "ada9022679d9c73d3a119fe04c3c76d83aeda3b0"
+                "reference": "7af96d8da5ea3e9a5dd05d0e734b21c5726a6ddf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/ada9022679d9c73d3a119fe04c3c76d83aeda3b0",
-                "reference": "ada9022679d9c73d3a119fe04c3c76d83aeda3b0",
+                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/7af96d8da5ea3e9a5dd05d0e734b21c5726a6ddf",
+                "reference": "7af96d8da5ea3e9a5dd05d0e734b21c5726a6ddf",
                 "shasum": ""
             },
             "require": {
@@ -519,7 +516,7 @@
                 "framework",
                 "yii2"
             ],
-            "time": "2018-02-01T09:13:19+00:00"
+            "time": "2017-11-14T11:08:21+00:00"
         },
         {
             "name": "yiisoft/yii2-bootstrap",
@@ -574,16 +571,16 @@
         },
         {
             "name": "yiisoft/yii2-composer",
-            "version": "dev-master",
+            "version": "2.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-composer.git",
-                "reference": "248f7065a352273b15a9f624be63830f360a59f2"
+                "reference": "3f4923c2bde6caf3f5b88cc22fdd5770f52f8df2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-composer/zipball/248f7065a352273b15a9f624be63830f360a59f2",
-                "reference": "248f7065a352273b15a9f624be63830f360a59f2",
+                "url": "https://api.github.com/repos/yiisoft/yii2-composer/zipball/3f4923c2bde6caf3f5b88cc22fdd5770f52f8df2",
+                "reference": "3f4923c2bde6caf3f5b88cc22fdd5770f52f8df2",
                 "shasum": ""
             },
             "require": {
@@ -620,12 +617,12 @@
                 "extension installer",
                 "yii2"
             ],
-            "time": "2017-08-01T14:22:25+00:00"
+            "time": "2016-12-20T13:26:02+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "stability-flags": {
         "drnixx/yii2-kendo": 20,
         "bower-asset/bootstrap": 10,
