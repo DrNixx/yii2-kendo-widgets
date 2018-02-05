@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "bd38ed882d7579bb511ae6a343c2c5a0",
+    "content-hash": "a6ec7caa74730676bd2396dc0726915a",
     "packages": [
         {
             "name": "bower-asset/bootstrap",
@@ -210,8 +210,7 @@
             },
             "license": [
                 "MIT"
-            ],
-            "time": "2017-10-12T10:11:14+00:00"
+            ]
         },
         {
             "name": "cebe/markdown",
@@ -275,7 +274,7 @@
         },
         {
             "name": "drnixx/yii2-kendo",
-            "version": "dev-master",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/DrNixx/yii2-kendo.git",
@@ -296,6 +295,7 @@
                     "yii2\\kendo\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -306,10 +306,6 @@
                 }
             ],
             "description": "PHP wrappers for KendoUI components",
-            "support": {
-                "source": "https://github.com/DrNixx/yii2-kendo/tree/master",
-                "issues": "https://github.com/DrNixx/yii2-kendo/issues"
-            },
             "time": "2018-02-02T22:20:29+00:00"
         },
         {
@@ -624,7 +620,6 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "drnixx/yii2-kendo": 20,
         "bower-asset/bootstrap": 10,
         "yiisoft/yii2-bootstrap": 20
     },

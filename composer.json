@@ -1,18 +1,12 @@
 {
   "name": "drnixx/yii2-kendo-widgets",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Yii2 widgets for KendoUI components",
   "type": "library",
   "minimum-stability": "stable",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/DrNixx/yii2-kendo"
-    }
-  ],
   "require": {
     "php": ">=5.6.0",
-    "drnixx/yii2-kendo": "dev-master",
+    "drnixx/yii2-kendo": "^1.0",
     "yiisoft/yii2": "~2.0.6",
     "bower-asset/bootstrap": "~4.0.0@beta",
     "bower-asset/popper.js": "~1.12.0",
