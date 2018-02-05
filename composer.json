@@ -1,6 +1,5 @@
 {
   "name": "drnixx/yii2-kendo-widgets",
-  "version": "1.0.4",
   "description": "Yii2 widgets for KendoUI components",
   "type": "library",
   "minimum-stability": "stable",
